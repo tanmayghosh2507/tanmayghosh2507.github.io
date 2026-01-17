@@ -75,6 +75,8 @@ I am a **Software Engineer** with over 8 years of industry experience building s
 GenAI leveraged automation to speed up future region expansion effort by 80%
 - Developed an Ops Tool to share Spark execution logs from Clean Rooms Compute cells to advertisement clients redacting PII
 
+---
+
 #### TikTok Inc. (Bytedance)
 *Backend Software Engineer* [August 2023 – June 2025]  
 *Bellevue, WA*  
@@ -88,6 +90,8 @@ accuracy by 7% and substantially reducing minor leaks
 - Directed the creation of a comprehensive Standard Operating Guide for release management, resulting in 28% reduction in
 rollback rates and enhanced automation coverage, improving release stability and deployment efficiency
 
+---
+
 #### Microsoft Corporation
 *Software Development Engineer II* [March 2021 – July 2023]  
 *Software Development Engineer I* [February 2019 – March 2021]  
@@ -97,6 +101,8 @@ activities per second with 99.97% success. Resolved a critical QPS bottleneck, b
 25k by batching API calls
 - API Store: Created an Azure DevOps Release Task extension to enhance API discoverability and consistency
 - Hack for Good: Automated manual entry of handwritten forms using OCR and NLP, saving significant time and effort
+
+---
 
 #### Target Corporation
 *Software Engineer* [March 2016 - July 2017]  

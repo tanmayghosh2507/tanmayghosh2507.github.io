@@ -6,7 +6,7 @@
 ---
 
 ## Profile Image
-![Profile Picture](media/profile.jpg)
+<img src="media/profile.jpg" width="50%" height="50%">
 
 ---
 

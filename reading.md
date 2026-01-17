@@ -6,16 +6,14 @@
 
 ## My Reading List
 
-Add your favorite books, articles, and reading recommendations here.
-
 ### Books
-- Add book titles and your thoughts
+- WIP
 
 ### Articles
-- Add interesting articles you've read
+- WIP
 
 ### Currently Reading
-- TODO
+- [Algorthms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by)
 
 ### Recommendations
 - TODO
